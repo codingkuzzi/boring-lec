@@ -5,3 +5,10 @@
   font-weight: bold;
   border-radius: 50%;
 }
+
+.HighLight {
+  background-color: yellow;
+  border: 2px solid #537dc1;
+  padding: 10px;
+  border-radius: 5px;
+}
